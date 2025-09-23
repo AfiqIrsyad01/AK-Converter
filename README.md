@@ -12,7 +12,7 @@ A modern, cross‑platform desktop app for quick conversions across physical, di
 - Input validation, Enter-to-convert, and Swap buttons
 - Currency support for many fiat and crypto (cached with refresh)
 
-![Screenshot](screenshot.png)
+![Screenshot](image.png)
 
 ## Features
 - Physical Units: Length, Mass, Temperature, Volume, Area, Speed, Energy, Power, Pressure, Angle, Density
