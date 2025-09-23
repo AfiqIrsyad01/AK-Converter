@@ -50,7 +50,7 @@ pip install PyQt6 requests
 
 Run:
 ```bash
-python main.py
+python ak-converter.py
 ```
 
 ## Currency Conversion
@@ -58,23 +58,6 @@ python main.py
 - Works for common fiat and crypto like BTC/ETH
 - Caches rates for 30 minutes; click “Refresh Rates” to force update
 - If requests isn’t installed or there’s no internet, currency conversion will be unavailable
-
-## Project Structure (suggested)
-```
-.
-├── main.py
-├── requirements.txt
-├── assets/
-│   └── screenshot.png
-├── LICENSE
-└── README.md
-```
-
-Sample requirements.txt:
-```
-PyQt6>=6.5
-requests>=2.31
-```
 
 ## Usage Tips
 - Press Enter in any input to convert immediately
@@ -115,9 +98,6 @@ Examples (not exhaustive):
 - Custom favorites section
 - Historical currency rates
 - Localization (multiple languages)
-
-## License
-MIT License — see LICENSE for details.
 
 ## Acknowledgments
 - Currency rates by exchangerate.host
