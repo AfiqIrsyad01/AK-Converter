@@ -2,9 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ![PyQt6](https://img.shields.io/badge/PyQt-6-41CD52?logo=qt&logoColor=white)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
-![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
 A modern, cross‑platform desktop app for quick conversions across physical, digital, health/education, finance, and miscellaneous units. Built with PyQt6. Most converters work offline; currency conversion updates live from a free API.
 
